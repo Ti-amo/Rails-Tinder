@@ -20,6 +20,6 @@ $(function() {
         } else {
             console.log("ACTION", action)
         }
-        $activeSlid.addClass("showing");
+        $activeSlide.addClass("showing");
     }
 });
